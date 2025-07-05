@@ -1,9 +1,0 @@
-# ninja log v5
-1	588	7396374942720368	NS_conv_autogen/timestamp	f81bc6004a3ba99c
-1	588	7396374942720368	NS_conv_autogen/mocs_compilation.cpp	f81bc6004a3ba99c
-1	588	7396374942720368	C:/Users/YAROSLAV/Documents/NS_conv/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/NS_conv_autogen/timestamp	f81bc6004a3ba99c
-1	588	7396374942720368	C:/Users/YAROSLAV/Documents/NS_conv/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/NS_conv_autogen/mocs_compilation.cpp	f81bc6004a3ba99c
-592	2072	7396374958034710	CMakeFiles/NS_conv.dir/main.cpp.obj	b20088892ad73e1f
-589	2083	7396374958146261	CMakeFiles/NS_conv.dir/NS_conv_autogen/mocs_compilation.cpp.obj	c3202d0633e64a68
-595	2726	7396374964503708	CMakeFiles/NS_conv.dir/mainwindow.cpp.obj	63696192abf2ab4d
-2726	3064	7396374967766599	NS_conv.exe	c3d95d89f3d8876d
